@@ -1,5 +1,5 @@
 "use client";
-import { Icons } from "@/components/icons";
+// import { Icons } from "@/components/icons";
 import { useState } from "react";
 
 const Footer: React.FC = () => {
