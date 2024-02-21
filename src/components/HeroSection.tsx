@@ -10,7 +10,7 @@ const HeroSection = () => {
                     <h2 className="font-semibold text-4xl  md:text-5xl ">We&apos;re <span className=" font-bold">/cohort1/group1</span></h2>
                     <p className = "text-sm md:text-base mt-4 mb-6">
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo tellus sit amet magna tempor vestibulum. Sed 
-                        <span className=" font-bold"> lobortis laoreet sem,</span> ut laoreet erat aliquam non. 
+                        <span className=" font-bold"> lobortis laoreet sem,</span> ut laoreet erat aliquam non.  
                     </p>
                     <a href="contact">
                         <button className="bg-slate-800  hover:bg-slate-900 text-white p-3 text-sm">
