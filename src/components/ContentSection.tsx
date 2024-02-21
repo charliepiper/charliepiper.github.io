@@ -11,7 +11,7 @@ const HeroSection = () => {
             </h2>
 
             {/* Desktop version */}
-            <div className="p-5 hidden md:flex flex-row gap-10 pt-16">
+            <div className="p-2 hidden md:flex flex-row gap-10 pt-16">
                 <div className="flex flex-col gap-5">
                     <div className="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 ">
                     <h5 className="mb-6 text-xl font-bold tracking-tight text-gray-900 ">Our GitHub repository</h5>
@@ -70,7 +70,7 @@ const HeroSection = () => {
             </div>
             
             {/* Phone version  */}
-            <div className="md:hidden p-5 gap-10 pt-16">
+            <div className="md:hidden  gap-10 pt-16">
                 <div className="flex gap-3 pb-6">
                     <div className="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 ">
                     <h5 className="mb-6 text-md font-bold tracking-tight text-gray-900 ">Our GitHub repository</h5>
