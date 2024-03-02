@@ -16,12 +16,12 @@ const HeroSection = () => {
                     <div className="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 ">
                     <h5 className="mb-6 text-xl font-bold tracking-tight text-gray-900 ">Our GitHub repository</h5>
                     <p className="font-normal text-gray-500 pb-5">Here is a link to our associated GitHub repository :) we hope you like our code.</p>
-                    <a className="cursor-pointer ">
+                    <div className="cursor-pointer ">
                         <div className="text-sm ghosted text-blue-500 flex flex-row gap-1">
-                            <h6 >/githubrepository</h6> 
+                            <a href="https://github.com/th1583/ENG1" target="_blank"><h6 >/githubrepository</h6>  </a>
                             <ArrowUpRight className="w-5 h-5"/>
                         </div>
-                    </a>
+                    </div>
                     </div>
                     <div className="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 ">
                     <h5 className="mb-2 text-xl font-bold tracking-tight text-gray-900 ">Requirements</h5>
