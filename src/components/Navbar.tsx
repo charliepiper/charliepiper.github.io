@@ -93,7 +93,7 @@ export function Navbar() {
                   Home
                 </li>
               </Link>
-              <Link href="/about">
+              <Link href="/documents">
                 <li onClick = {() => setMenuOpen(false)}
                 className = "py-4 cursor-pointer"
                 >
