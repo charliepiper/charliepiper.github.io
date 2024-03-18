@@ -22,7 +22,7 @@ export default function Home() {
                 </div>
                 <div>
                     <h3 className="text-xl md:text-2xl font-semibold">
-                        Gannt Chart
+                        Architecture figure 1.1
                     </h3>
                     <p className="max-w-xl pt-5">
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo tellus sit amet <span className="font-bold">magna tempor </span>vestibulum. Sed lobortis laoreet sem, ut laoreet erat aliquam non.
@@ -36,7 +36,7 @@ export default function Home() {
                 </div>
                 <div>
                     <h3 className="text-xl md:text-2xl font-semibold">
-                        Gannt Chart
+                        Architecture figure 2.2
                     </h3>
                     <p className="max-w-xl pt-5">
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo tellus sit amet <span className="font-bold">magna tempor </span>vestibulum. Sed lobortis laoreet sem, ut laoreet erat aliquam non.
