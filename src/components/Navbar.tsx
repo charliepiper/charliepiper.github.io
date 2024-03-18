@@ -16,7 +16,7 @@ const nav_items: Array<NavItem> = [
     },
     {
       label: "Documents",
-      page: "/",
+      page: "/documents",
   },
 ]
 

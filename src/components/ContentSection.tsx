@@ -5,7 +5,7 @@ import { ArrowUpRight } from 'lucide-react';
 const HeroSection = () => {
   return (
     <section id="Content Section" className="xl:p-24 md:p-24 lg:p-24 p-5 bg-[#f4f4f4] flex justify-center items-center ">
-        <div className = "container ">
+        <div className = "container">
             <h2 className="font-semibold text-5xl pt-5">
                 Our work
             </h2>
