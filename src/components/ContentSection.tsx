@@ -60,7 +60,7 @@ const HeroSection = () => {
                     {/* <h6 className="text-sm ghosted">pdf</h6> */}
                     <h5 className="mb-2 text-xl font-bold tracking-tight text-gray-900 ">Implementation</h5>
                     <p className="font-normal text-gray-700 pb-5">Here is a link to our implementation pdf</p>
-                    <a className="cursor-pointer">
+                    <a className="cursor-pointer" href="google.com" download>
                         <h6 className="text-sm ghosted text-blue-500">/implementation.pdf</h6>
                     </a>
                     </div>
@@ -118,9 +118,12 @@ const HeroSection = () => {
                     {/* <h6 className="text-sm ghosted">pdf</h6> */}
                     <h5 className="mb-2 text-md font-bold tracking-tight text-gray-900 ">Implementation</h5>
                     <p className="text-xs font-normal text-gray-700 pb-5">Here is a link to our implementation pdf</p>
-                    <a className="cursor-pointer">
-                        <h6 className="text-xs ghosted text-blue-500">/implementation.pdf</h6>
-                    </a>
+                    <div className="cursor-pointer ">
+                        <div className="text-sm ghosted text-blue-500 flex flex-row gap-1">
+                            <a download href="/implementation.pdf" >/implementation.pdf
+                            </a>
+                        </div>
+                    </div>
                     </div>
                 </div>
 
