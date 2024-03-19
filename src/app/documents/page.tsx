@@ -39,7 +39,7 @@ export default function Home() {
                     </div>
                 </div>
                 <div className="max-w-xl min-w-xl md:min-w-xl">
-                    <img src="Ganntchart1.jpg" className="rounded-xl w-full" alt="Gannt Chart 1" />
+                    <img src="Ganntchart1.png" className="rounded-xl w-full" alt="Gannt Chart 1" />
                 </div>
             </div>
 
