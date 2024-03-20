@@ -18,10 +18,10 @@ const Footer: React.FC = () => {
                 <li>
                   <a
                     className={`text-sm hover:text-blue-400 cursor-pointer ${
-                      activeLink === "terms-of-service" ? "text-blue-400" : ""
+                      activeLink === "/" ? "text-blue-400" : ""
                     }`}
-                    href="/terms"
-                    onClick={() => setActiveLink("terms-of-service")}
+                    href="/"
+                    onClick={() => setActiveLink("/")}
                   >
                     game download
                   </a>
@@ -29,10 +29,10 @@ const Footer: React.FC = () => {
                 <li>
                   <a
                     className={`text-sm hover:text-blue-400 cursor-pointer ${
-                      activeLink === "cookie-settings" ? "text-blue-400" : ""
+                      activeLink === "/" ? "text-blue-400" : ""
                     }`}
-                    href="/cookies"
-                    onClick={() => setActiveLink("cookie-settings")}
+                    href="/"
+                    onClick={() => setActiveLink("/")}
                   >
                     credits
                   </a>
