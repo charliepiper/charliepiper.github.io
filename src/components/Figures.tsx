@@ -31,7 +31,7 @@ const Figures = () => {
                     </div>
                 </div>
                 <div className="max-w-xl min-w-xl md:min-w-xl">
-                    <img src="test.png" className="rounded-xl w-full" />
+                    <img src="figure1.png" className="rounded-xl w-full" />
                 </div>
             </div>
 
@@ -55,7 +55,7 @@ const Figures = () => {
                     </div>
                 </div>
                 <div className="max-w-xl min-w-xl md:min-w-xl">
-                    <img src="ganntchart2.jpeg" className="rounded-xl w-full" alt="Gannt Chart 2" />
+                    <img src="figure2.jpeg" className="rounded-xl w-full" alt="Gannt Chart 2" />
                 </div>
             </div>
 
@@ -78,7 +78,7 @@ const Figures = () => {
                     </div>
                 </div>
                 <div className="max-w-xl min-w-xl md:min-w-xl">
-                    <img src="ganntchart3.jpeg" className="rounded-xl w-full" alt="Gannt Chart 3" />
+                    <img src="figure3.jpeg" className="rounded-xl w-full" alt="Gannt Chart 3" />
                 </div>
             </div>
         </div>
