@@ -2,8 +2,8 @@ import React from 'react';
 
 const HeroSection = () => {
   return (
-    <section id="Hero Section" className="md:pb-32 pb-10 xl:p-24 md:p-24 lg:p-24 p-5 bg-[#f4f4f4] flex justify-center items-center ">
-      <div className="container md:flex-row flex-col flex">
+    <section id="Hero Section" className="md:pb-32 pb-10 flex justify-center items-center ">
+      <div className="container md:flex-row flex-col flex md:mt-20 mt-12 xl:p-24 md:p-24 lg:p-24 p-10 flex flex-col md:flex-row md:gap-20 ">
         <div className="md:pt-10 pt-1 max-w-xl ">
           <div className="max-w-xl md:max-w-3xl">
             <p className="text-xl md:text-2xl">hello!</p>
