@@ -31,7 +31,7 @@ const Figures = () => {
                     </div>
                 </div>
                 <div className="max-w-xl min-w-xl md:min-w-xl">
-                    <img src="ganntchart1.jpeg" className="rounded-xl w-full" alt="Gannt Chart 1" />
+                    <img src="test.png" className="rounded-xl w-full" />
                 </div>
             </div>
 
