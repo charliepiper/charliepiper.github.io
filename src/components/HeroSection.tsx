@@ -22,9 +22,7 @@ const HeroSection = () => {
         <div className="mt-12 lg:mt-0 w-full mx-auto max-w-md ">
           <img className="rounded-xl w-full" src="map1.png" alt="main page" />
         </div>
-        <div className="max-w-xl min-w-xl md:min-w-xl">
-                    <img src="Ganntchart2.jpeg" className="rounded-xl w-full" alt="Gannt Chart 2" />
-                </div>
+        
       </div>
     </section>
   );
