@@ -60,7 +60,7 @@ const HeroSection = () => {
                     {/* <h6 className="text-sm ghosted">pdf</h6> */}
                     <h5 className="mb-2 text-xl font-bold tracking-tight text-gray-900 ">Implementation</h5>
                     <p className="font-normal text-gray-700 pb-5">Here is a link to our implementation pdf</p>
-                    <a className="cursor-pointer" href="google.com" download>
+                    <a className="cursor-pointer" href="implementation.pdf" target="_blank" rel="noopener noreferrer" download>
                         <h6 className="text-sm ghosted text-blue-500">/implementation.pdf</h6>
                     </a>
                     </div>
