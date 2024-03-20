@@ -39,7 +39,7 @@ export default function Home() {
                     </div>
                 </div>
                 <div className="max-w-xl min-w-xl md:min-w-xl">
-                    <img src="Ganntchart1.png" className="rounded-xl w-full" alt="Gannt Chart 1" />
+                    <img src="ganntchart1.jpeg" className="rounded-xl w-full" alt="Gannt Chart 1" />
                 </div>
             </div>
 
@@ -63,7 +63,7 @@ export default function Home() {
                     </div>
                 </div>
                 <div className="max-w-xl min-w-xl md:min-w-xl">
-                    <img src="Ganntchart2.jpeg" className="rounded-xl w-full" alt="Gannt Chart 2" />
+                    <img src="ganntchart2.jpeg" className="rounded-xl w-full" alt="Gannt Chart 2" />
                 </div>
             </div>
 
@@ -86,7 +86,7 @@ export default function Home() {
                     </div>
                 </div>
                 <div className="max-w-xl min-w-xl md:min-w-xl">
-                    <img src="Ganntchart3.jpeg" className="rounded-xl w-full" alt="Gannt Chart 3" />
+                    <img src="ganntchart3.jpeg" className="rounded-xl w-full" alt="Gannt Chart 3" />
                 </div>
             </div>
         </div>
