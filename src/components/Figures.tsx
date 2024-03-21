@@ -93,7 +93,7 @@ const Figures = () => {
                     </div>
                 </div>
                 <div className="max-w-xl min-w-xl md:min-w-xl">
-                    <img src="postClientInterviewDiagram.pdf" className="rounded-xl w-full"/>
+                    <img src="client-interview.png" className="rounded-xl w-full"/>
                 </div>
             </div>
 
