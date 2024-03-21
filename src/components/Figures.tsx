@@ -73,7 +73,6 @@ const Figures = () => {
                         <p>Dependencies: None</p>
                         <h3 className="text-lg font-semibold">Links Creation (Low Priority)</h3>
                         <p>Start: 2024-03-16, End: 2024-03-16</p>
-                        <br></br>
                         <p>Dependencies: Implementation, Website Creation, Architecture, Risk management, Method selection and planning</p>
                     </div>
                 </div>
