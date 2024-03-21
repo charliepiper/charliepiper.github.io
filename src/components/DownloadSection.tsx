@@ -7,7 +7,10 @@ const HeroSection = () => {
         <div>
           <h2 className="font-semibold text-3xl md:text-5xl">Our game</h2>
           <p className="pt-5 pb-5 mx-auto max-w-lg text-sm md:text-base">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo tellus sit amet <span className="font-bold">magna tempor </span>vestibulum. Sed lobortis laoreet sem, ut laoreet erat aliquam non. 
+            Please note that on macOS the .jar file needs to be started with the -XstartOnFirstThread JVM argument. 
+            <br></br>
+            <span className="font-semibold">$ java -XstartOnFirstThread -jar desktop-1.0.jar</span>
+
           </p>
           <a className="cursor-pointer" href="desktop-1.0.jar" target="_blank" rel="noopener noreferrer" download>
             <button className="bg-slate-800 hover:bg-slate-900 text-white p-3 text-sm">
