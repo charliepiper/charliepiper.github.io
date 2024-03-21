@@ -9,7 +9,7 @@ const Figures = () => {
             </h2>
             <div className="flex flex-col md:flex-row md:gap-48 gap-10 pt-16">
                 <div>
-                    <p className="text-sm">Week 1</p>
+                    <p className="text-sm">Figure 1 (Week 1)</p>
                     <h3 className="text-2xl md:text-2xl font-semibold">
                         Gannt Chart 1
                     </h3>
@@ -37,7 +37,7 @@ const Figures = () => {
 
             <div className="flex flex-col md:flex-row gap-10 pt-16">
                 <div>
-                    <p className="text-sm">Week 2</p>
+                    <p className="text-sm">Figure 2 (Week 2)</p>
                     <h3 className="text-xl md:text-2xl font-semibold">
                         Gannt chart 2
                     </h3>
@@ -61,7 +61,7 @@ const Figures = () => {
 
             <div className="flex flex-col md:flex-row gap-10 pt-16">
                 <div>
-                    <p className="text-sm">Week 3</p>
+                    <p className="text-sm">Figure 3 (Week 3)</p>
                     <h3 className="text-xl md:text-2xl font-semibold">
                         Gannt Chart 3
                     </h3>
@@ -83,7 +83,7 @@ const Figures = () => {
 
             <div className="flex flex-col md:flex-row gap-10 md:gap-52 pt-16">
                 <div>
-                    <p className="text-sm">Figure 1</p>
+                    <p className="text-sm">Figure 4</p>
                     <h3 className="text-xl md:text-2xl font-semibold">
                         Architecture
                     </h3>
