@@ -36,7 +36,7 @@ const HeroSection = () => {
                     <div className="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 ">
                     <h5 className="mb-2 text-xl font-bold tracking-tight text-gray-900 ">Architecture</h5>
                     <p className="font-normal text-gray-700 pb-5">Here is a link to our architecture pdf</p>
-                    <a className="cursor-pointer">
+                    <a className="cursor-pointer" href="architecture.pdf" target="_blank" rel="noopener noreferrer" download>
                         <h6 className="text-sm ghosted text-blue-500">/architecture.pdf</h6>
                     </a>
                     </div>
