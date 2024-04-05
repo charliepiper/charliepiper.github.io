@@ -75,18 +75,16 @@ const HeroSection = () => {
                     <div className="block max-w-sm p-5 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 ">
                     <h5 className="mb-6 text-md font-bold tracking-tight text-gray-900 ">Our GitHub repository</h5>
                     <p className="text-xs font-normal text-gray-500 pb-5">Here is a link to our associated GitHub repository :) <br></br><br></br>we hope you like our code.</p>
-                    <a className="cursor-pointer ">
-                        <div className="text-xs ghosted text-blue-500 flex flex-row gap-1">
-                            <h6 >/githubrepository</h6> 
-                            {/* <ArrowUpRight className="w-5 h-5"/> */}
+                    <div className="text-sm ghosted text-blue-500 flex flex-row gap-1">
+                            <a href="https://github.com/th1583/ENG1" target="_blank"><h6 >/githubrepository</h6>  </a>
+                            <ArrowUpRight className="w-5 h-5"/>
                         </div>
-                    </a>
                     </div>
                     <div className="block max-w-sm p-5 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 ">
                     <h5 className="mb-2 text-md font-bold tracking-tight text-gray-900 ">Requirements</h5>
                     <p className="text-xs font-normal text-gray-700 pb-5">Here is a link to our requirements pdf</p>
-                    <a className="cursor-pointer">
-                        <h6 className="text-xs ghosted text-blue-500">/requirements.pdf</h6>
+                    <a className="cursor-pointer" href="requirements.pdf" target="_blank" rel="noopener noreferrer" download>
+                        <h6 className="text-sm ghosted text-blue-500">/requirements.pdf</h6>
                     </a>
                     </div>
                 </div>
@@ -94,15 +92,15 @@ const HeroSection = () => {
                     <div className="block max-w-sm p-5 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 ">
                     <h5 className="mb-2 text-md font-bold tracking-tight text-gray-900 ">Architecture</h5>
                     <p className="text-xs font-normal text-gray-700 pb-5">Here is a link to our architecture pdf</p>
-                    <a className="cursor-pointer">
-                        <h6 className="text-xs ghosted text-blue-500">/architecture.pdf</h6>
+                    <a className="cursor-pointer" href="architecture.pdf" target="_blank" rel="noopener noreferrer" download>
+                        <h6 className="text-sm ghosted text-blue-500">/architecture.pdf</h6>
                     </a>
                     </div>
                     <div className="block max-w-sm p-5 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 ">
                     <h5 className="mb-2 text-md font-bold tracking-tight text-gray-900 ">Method selection <br></br> and planning</h5>
                     <p className="text-xs font-normal text-gray-700 pb-5">Here is a link to our method selection and planning pdf</p>
-                    <a className="cursor-pointer">
-                        <p className="text-xs ghosted text-blue-500">/methodplanning.pdf</p>
+                    <a className="cursor-pointer" href="methodselection.pdf" target="_blank" rel="noopener noreferrer" download>
+                        <h6 className="text-sm ghosted text-blue-500">/methodselectionandplanning.pdf</h6>
                     </a>
                     </div>
                 </div>
@@ -110,8 +108,8 @@ const HeroSection = () => {
                     <div className="block max-w-sm p-5 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 ">
                     <h5 className="mb-2 text-md font-bold tracking-tight text-gray-900 ">Risk assessment <br></br> and mitigation </h5>
                     <p className="text-xs font-normal text-gray-700 pb-5">Here is a link to our Risk assessment and mitigation and planning pdf</p>
-                    <a className="cursor-pointer ">
-                        <h6 className="text-xs ghosted text-blue-500">/riskassessment.pdf</h6>
+                    <a className="cursor-pointer" href="riskassessment.pdf" target="_blank" rel="noopener noreferrer" download>
+                        <h6 className="text-sm ghosted text-blue-500">/riskassessment.pdf</h6>
                     </a>
                     </div>
                     <div className="block max-w-sm p-5 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 ">
