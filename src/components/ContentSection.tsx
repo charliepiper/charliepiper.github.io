@@ -100,7 +100,7 @@ const HeroSection = () => {
                     <h5 className="mb-2 text-md font-bold tracking-tight text-gray-900 ">Method selection <br></br> and planning</h5>
                     <p className="text-xs font-normal text-gray-700 pb-5">Here is a link to our method selection and planning pdf</p>
                     <a className="cursor-pointer" href="methodselection.pdf" target="_blank" rel="noopener noreferrer" download>
-                        <h6 className="text-sm ghosted text-blue-500">/methodselectionandplanning.pdf</h6>
+                        <h6 className="text-sm ghosted text-blue-500">/methodplanning.pdf</h6>
                     </a>
                     </div>
                 </div>
